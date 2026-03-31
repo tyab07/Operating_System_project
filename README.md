@@ -4,7 +4,7 @@ Welcome to the OS Simulation project! This is a C++ project designed to simulate
 
 ## Getting Started
 
-Follow these steps to set up and run the OS Simulation project on your system:
+Follow these steps 
 
 ### Prerequisites
 
